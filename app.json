@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "order-manager-app",
+    "slug": "order-manager-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "order-manager-app"
+}
